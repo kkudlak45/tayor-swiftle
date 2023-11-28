@@ -1,6 +1,6 @@
 export const songs = new Map();
 
-songs.set("All Too Well", new Audio("https://upload.wikimedia.org/wikipedia/en/6/63/All_Too_Well_%2810_Minute_Version%29_by_Taylor_Swift.ogg"))
+songs.set("All Too Well (10 minute version)", new Audio("https://upload.wikimedia.org/wikipedia/en/6/63/All_Too_Well_%2810_Minute_Version%29_by_Taylor_Swift.ogg"))
 songs.set("Anti-Hero", new Audio("https://upload.wikimedia.org/wikipedia/en/a/a4/Anti-Hero_by_Taylor_Swift_%28audio%29.ogg"))
 songs.set("Babe", new Audio("https://upload.wikimedia.org/wikipedia/en/c/cb/Babe_%28Taylor%27s_Version%29.ogg"))
 songs.set("Bad Blood", new Audio("https://upload.wikimedia.org/wikipedia/en/7/7c/Bad_Blood.ogg"))
