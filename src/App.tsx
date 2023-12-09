@@ -3,7 +3,7 @@ import { songs } from './constants/songs'
 import { getCodeWord } from './constants/answer';
 
 const targetAnswerCount = 13;
-const roundMaxTime = 10;
+const roundMaxTime = 30;
 
 const optionCount = Array.from(songs.keys()).length;
 const getNewAnswerKey = () => {
