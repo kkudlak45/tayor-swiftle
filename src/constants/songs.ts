@@ -71,4 +71,7 @@ songs.set("Willow", new Audio("https://upload.wikimedia.org/wikipedia/en/9/91/Wi
 songs.set("You Belong With Me", new Audio("https://upload.wikimedia.org/wikipedia/en/5/55/You_Belong_with_Me_by_Taylor_Swift.ogg"))
 songs.set("You Need to Calm Down", new Audio("https://upload.wikimedia.org/wikipedia/en/3/30/You_Need_to_Calm_Down_by_Taylor_Swift.mp3"))
 songs.set("You\’re Not Sorry", new Audio("https://upload.wikimedia.org/wikipedia/en/d/d0/YoureNotSorry_sample.ogg"))
+songs.set("Fortnight", new Audio("https://upload.wikimedia.org/wikipedia/en/3/3e/Fortnight_by_Taylor_Swift_feat._Post_Malone_%28sample%29.ogg"))
+songs.set("So Long, London", new Audio("https://upload.wikimedia.org/wikipedia/en/c/cc/So_Long%2C_London_by_Taylor_Swift_sample.ogg"))
+songs.set("So High School", new Audio("https://upload.wikimedia.org/wikipedia/en/e/e3/So_High_School_by_Taylor_Swift_%28sample%29.ogg"))
 
